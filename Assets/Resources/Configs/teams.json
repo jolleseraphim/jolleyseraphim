@@ -1,0 +1,54 @@
+{
+    "teams": [
+        {
+            "name": "Team A",
+            "players": [
+                {
+                    "name": "Player 1",
+                    "position": "Forward",
+                    "rating": 85
+                },
+                {
+                    "name": "Player 2",
+                    "position": "Midfielder",
+                    "rating": 82
+                },
+                {
+                    "name": "Player 3",
+                    "position": "Defender",
+                    "rating": 80
+                },
+                {
+                    "name": "Player 4",
+                    "position": "Goalkeeper",
+                    "rating": 78
+                }
+            ]
+        },
+        {
+            "name": "Team B",
+            "players": [
+                {
+                    "name": "Player 5",
+                    "position": "Forward",
+                    "rating": 87
+                },
+                {
+                    "name": "Player 6",
+                    "position": "Midfielder",
+                    "rating": 83
+                },
+                {
+                    "name": "Player 7",
+                    "position": "Defender",
+                    "rating": 81
+                },
+                {
+                    "name": "Player 8",
+                    "position": "Goalkeeper",
+                    "rating": 79
+                }
+            ]
+        }
+    ]
+}

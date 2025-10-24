@@ -1,0 +1,36 @@
+{
+    "Prefab": {
+        "Name": "Ball",
+        "Components": [
+            {
+                "Type": "Rigidbody",
+                "Properties": {
+                    "Mass": 0.43,
+                    "Drag": 0,
+                    "AngularDrag": 0.05,
+                    "UseGravity": true,
+                    "IsKinematic": false
+                }
+            },
+            {
+                "Type": "SphereCollider",
+                "Properties": {
+                    "Radius": 0.11,
+                    "IsTrigger": false
+                }
+            },
+            {
+                "Type": "MeshRenderer",
+                "Properties": {
+                    "Materials": [
+                        "Assets/Materials/Ball.mat"
+                    ]
+                }
+            },
+            {
+                "Type": "BallPhysics",
+                "Properties": {}
+            }
+        ]
+    }
+}
