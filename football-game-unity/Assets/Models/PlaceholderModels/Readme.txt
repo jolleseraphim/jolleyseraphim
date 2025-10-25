@@ -1,0 +1,1 @@
+This file contains information about the placeholder models used in the project. These models are temporary and will be replaced with final assets as development progresses. Please refer to the documentation for guidelines on creating and importing final models into the game.

@@ -1,0 +1,13 @@
+{
+    "name": "PlayerMaterial",
+    "shader": "Standard",
+    "color": {
+        "r": 1,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1
+    },
+    "mainTexture": "Assets/Textures/PlayerTexture.png",
+    "smoothness": 0.5,
+    "metallic": 0.1
+}
